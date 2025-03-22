@@ -49,3 +49,23 @@ nav {
 h1 {
     padding-left: 50px;
 }
+.pokem {
+    background-image: url(Rectangle\ 72.png);
+    background-size: cover;
+    background-position: center;
+    padding: 20px;
+    width: 250px;
+    margin: 20px auto;
+    border-radius: 15px
+}
+.imagen {
+    display: block;
+    margin:  auto;
+    height: 250px;
+    width: auto;
+}
+button {
+    background-color: transparent;
+    border-radius: 15px;
+    
+}
